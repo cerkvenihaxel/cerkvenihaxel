@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel Cerkvenih</h1>
-<h3 align="center">A future front-end developer from Argentina</h3>
+<h3 align="center">A front-end developer from Argentina</h3>
 
 <p align="left"> <a href="https://twitter.com/axelcerkvenih" target="blank"><img src="https://img.shields.io/twitter/follow/axelcerkvenih?logo=twitter&style=for-the-badge" alt="axelcerkvenih" /></a> </p>
 
