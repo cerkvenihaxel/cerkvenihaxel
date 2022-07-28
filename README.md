@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/axelcerkvenih" target="blank"><img src="https://img.shields.io/twitter/follow/axelcerkvenih?logo=twitter&style=for-the-badge" alt="axelcerkvenih" /></a> </p>
 
-- 🔭 I’m currently working on **Fast Food web page**
+- 🔭 I’m currently working on **SISCON, CMS for Orthopedics and Health Insurance**
 
-- 🌱 I’m currently learning **Flutter, React Native, Javascript.**
+- 🌱 I’m currently learning **Flutter, React Native, Javascript, Laravel, PHP.**
 
 - 👯 I’m looking to collaborate on **app developing**
 
 - 🤝 I’m looking for help with **ReactJS, React Native.**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, SQL**
 
 - 📫 How to reach me **cerkvenihaxel@gmail.com**
 
