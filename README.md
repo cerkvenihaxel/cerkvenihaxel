@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Cerkvenih</h1>
 <h3 align="center">A Mobile Developer from Argentina</h3>
 
-<p align="left"> <a href="https://twitter.com/axelcerkvenih" target="blank"><img src="https://img.shields.io/twitter/follow/axelcerkvenih?logo=twitter&style=for-the-badge" alt="axelcerkvenih" /></a> </p>
+<p align="left"> <a href="https://twitter.com/axelcrkv" target="blank"><img src="https://img.shields.io/twitter/follow/axelcerkvenih?logo=twitter&style=for-the-badge" alt="axelcerkvenih" /></a> </p>
 
 - 🔭 I’m currently working on **SISCON, CMS for Orthopedics and Health Insurance**
 
