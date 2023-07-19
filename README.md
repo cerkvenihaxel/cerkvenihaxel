@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **mobile app development projects**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **SwiftUI**
 
-- 💬 Ask me about **Flutter, iOS, Android, C, C++, and SQL**
+- 💬 Ask me about **Flutter, C, C++,  and SQL**
 
 - 📫 How to reach me: **cerkvenihaxel@gmail.com**
 
@@ -26,6 +26,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/ios/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+</a>
+<a href="https://laravel.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
+</a>
+
