@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **SISCON, CMS for Orthopedics and Health Insurance**
 
-- 🌱 I’m currently learning **Flutter, iOS, Android, and React Native**
+- 🌱 I’m currently learning **Flutter, iOS and Livewire**
 
 - 👯 I’m looking to collaborate on **mobile app development projects**
 
 - 🤝 I’m looking for help with **SwiftUI**
 
-- 💬 Ask me about **Flutter, C, C++,  and SQL**
+- 💬 Ask me about **Flutter, C, C++, PHP, and SQL**
 
 - 📫 How to reach me: **cerkvenihaxel@gmail.com**
 
