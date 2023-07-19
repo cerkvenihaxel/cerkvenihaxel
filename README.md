@@ -41,14 +41,12 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
 </a>
 <a href="https://dbeaver.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dbeaverio/dbeaverio-icon.svg" alt="DBeaver" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="DBeaver" width="40" height="40"/>
 </a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jetbrains/phpstorm/phpstorm-icon.svg" alt="PHPStorm" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PHPStorm" width="40" height="40"/>
 </a>
-<a href="https://support.apple.com/guide/terminal/welcome/mac" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apple_terminal/apple_terminal-icon.svg" alt="Terminal (macOS)" width="40" height="40"/>
-</a>
+
 <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </a>
